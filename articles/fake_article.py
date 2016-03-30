@@ -1,8 +1,8 @@
-# The "test" article entry point
+# The "fake" article entry point
+# no dependencies etc.
 
 
-
-class Article:
+class FakeArticle:
 
     def __init__(self):
         pass
